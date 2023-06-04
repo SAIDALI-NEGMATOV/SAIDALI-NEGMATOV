@@ -13,6 +13,7 @@ ___
 [![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)](https://www.w3schools.com/react/default.asp)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/)
 [![Mui](https://img.shields.io/badge/-Mui-090909?style=for-the-badge&logo=Mui)](https://mui.com/)
+[![MardDown](https://img.shields.io/badge/-Markdown-090909?style=for-the-badge&logo=Markdown)](https://gist.github.com/Jekins/2bf2d0638163f1294637)
 
 ### My Git hub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIDALI-NEGMATOV&show_icons=true&theme=tokyonight)](https://github.com/SAIDALI-NEGMATOV/github-readme-stats)
