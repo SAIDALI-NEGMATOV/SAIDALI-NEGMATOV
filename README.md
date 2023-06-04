@@ -15,7 +15,7 @@ ___
 ![Mui](https://img.shields.io/badge/-Mui-090909?style=for-the-badge&logo=Mui)
 
 ### My Git hub stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAIDALI-NEGMATOV&hide_progress=true)](https://github.com/SAIDALI-NEGMATOV/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIDALI-NEGMATOV&show_icons=true&theme=tokyonight)](https://github.com/SAIDALI-NEGMATOV/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAIDALI-NEGMATOV&hide_progress=true)](https://github.com/SAIDALI-NEGMATOV/github-readme-stats)
 <img  src='https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif'/>
 
